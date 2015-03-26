@@ -1,3 +1,4 @@
 # Git Æ©Åä¸®¾ó
 
- - fix-B1
+ - feature-A
+ - fix-B
